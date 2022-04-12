@@ -1,6 +1,3 @@
 {
-    "op": "./sims/tsmc_bandgap_real_op.spice",
-    "tran": "./sims/tsmc_bandgap_real_tran.spice",
-    "tranGauss": "./sims/tsmc_bandgap_real_tran_gauss.spice",
-    "tempsweep": "./sims/tsmc_bandgap_real_tempsweep.spice"
+    "pnp_test": "./simulations/mc_pnp_test.spice"
 }
